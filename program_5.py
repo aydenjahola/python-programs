@@ -1,0 +1,5 @@
+print("This program converts temperature from Celsius to Fahrenheit")
+print()
+cel_temp = float(input("Please input the temperature in Celsius: "))
+print()
+print((cel_temp),"Celsius is equals to",(cel_temp * 9.0/5.0) +32,"Fahrenheit")

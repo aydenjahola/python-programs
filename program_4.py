@@ -1,0 +1,8 @@
+print("Calculate information about a rectange")
+print()
+length = float(input("Please input the Length of the rectangle: "))
+width = float(input("Please input the Widtth of the rectangle: "))
+print()
+print("The area of the rectangle is equals to:",length*width)
+print()
+print("The Perimeter of the rectangle is equals to:",2*length + 2*width)
